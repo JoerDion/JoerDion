@@ -1,63 +1,59 @@
-<!-- ═══════════ MATRIX RAIN HEADER ═══════════ -->
+<!-- ═══════════ HEADER OCEAN BREEZE ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:0e75b6,100:1e1e2e&height=250&section=header&text=JORDION%20SAMEA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20%E2%80%A2%20Backend%20%E2%80%A2%20Python%20%E2%80%A2%20AI%20Prompting&descAlignY=62&descSize=20&descColor=00d4ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8ede9,50:4facfe,100:00c6fb&height=220&section=header&text=Jordion%20Samea&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20%E2%80%A2%20Backend%20%E2%80%A2%20Python%20%E2%80%A2%20AI%20Prompting&descAlignY=60&descSize=18&descColor=ffffff"/>
 
-<!-- ANIMATED GRADIENT NAME -->
+<!-- NAMA ANIMASI TYPING -->
 <a href="https://github.com/USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2500&pause=500&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=Jordion+Samea;Frontend+Developer;Backend+Engineer;Python+Enthusiast;AI+Prompt+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=600&color=00A6FB&center=true&vCenter=true&width=600&lines=Halo%2C+gua+Jordion+Samea+%F0%9F%91%8B;Coding+with+Passion+%F0%9F%92%BB;Frontend+%26+Backend+Dev+%E2%9A%99%EF%B8%8F;Python+%26+AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
-<!-- FOTO PROFIL NEON ROTATING BORDER -->
-<p align="center">
+<!-- FOTO PROFIL GLOW BIRU MUDA -->
+<p>
   <a href="https://github.com/USERNAME">
     <img src="https://cdn.phototourl.com/member/2026-09-29-d2188455-5ef1-4286-9319-39207b183588.jpg"
+         alt="Jordion Samea"
          width="180"
-         style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 30px #00d4ff, 0 0 60px #0e75b6, 0 0 90px #1e1e2e;" />
+         style="border-radius: 50%; border: 5px solid #4facfe; box-shadow: 0 0 30px #a8ede9, 0 0 60px #4facfe;" />
   </a>
 </p>
 
 <!-- MARQUEE TEXT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+Welcome+to+my+GitHub+profile!+%7C+%F0%9F%92%BB+Coding+with+passion+%7C+%E2%98%95+Coffee+%26+Code+%7C+%F0%9F%A4%96+AI+Enthusiast" alt="Marquee" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00A6FB&center=true&vCenter=true&width=800&lines=%F0%9F%8C%8A+Welcome+to+my+GitHub!+%7C+%F0%9F%92%BB+Code+%26+Coffee+%7C+%F0%9F%9A%80+Keep+Learning+%7C+%F0%9F%A4%96+AI+Enthusiast" alt="Marquee" />
 </p>
 
-<!-- SOCIAL BADGES NEON -->
-<p align="center">
+<!-- SOSIAL MEDIA -->
+<p>
   <a href="https://www.instagram.com/b2sjoerrss">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:jordionsamea@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<!-- STATS MINI -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/USERNAME?label=FOLLOWERS&style=for-the-badge&color=00d4ff&labelColor=1e1e2e"/>
-  <img src="https://img.shields.io/github/stars/USERNAME?label=STARS&style=for-the-badge&color=00d4ff&labelColor=1e1e2e"/>
+<!-- VIEWS COUNTER -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=00c6fb&style=for-the-badge" alt="views"/>
 </p>
 
-<!-- SNAKE + PACMAN -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake" />
-</p>
+<!-- SNAKE ANIMATION -->
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake animation" />
 
 </div>
 
-<!-- ═══════════ NEON DIVIDER ═══════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+---
 
-<!-- ═══════════ TERMINAL ABOUT ═══════════ -->
+<!-- ═══════════ TENTANG GUA (TERMINAL STYLE) ═══════════ -->
 <div align="center">
 
-## 💻 Tentang Gua
+## 💫 Tentang Gua
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+Jordion+Samea;%24+cat+skills.txt;%3E+Frontend+%7C+Backend+%7C+Python+%7C+AI+Prompting;%24+cat+location.txt;%3E+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;%24+cat+status.txt;%3E+Open+for+Collaboration+%F0%9F%A4%9D" alt="Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=00A6FB&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+Jordion+Samea;%24+cat+skills.txt;%3E+Frontend+%7C+Backend+%7C+Python+%7C+AI+Prompting;%24+cat+location.txt;%3E+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;%24+cat+status.txt;%3E+Open+for+Collaboration+%F0%9F%A4%9D" alt="Terminal" />
 
 </div>
 
@@ -66,68 +62,51 @@
 <!-- ═══════════ TECH STACK ═══════════ -->
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-<h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vue,nextjs,svelte&theme=dark" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vue,nextjs&theme=light" />
 
-<h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,redis,nginx&theme=dark" />
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,redis&theme=light" />
 
-<h3>🐍 Python & AI</h3>
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,tensorflow,pytorch,anaconda,opencv&theme=dark" />
+### 🐍 Python & AI
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,tensorflow,pytorch,anaconda&theme=light" />
 
-<h3>🤖 AI Tools</h3>
+### 🤖 AI Prompting
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-<h3>🧰 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,postman,bash&theme=dark" />
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,postman&theme=light" />
 
 </div>
 
 ---
 
-<!-- ═══════════ ANIMATED SKILL BARS ═══════════ -->
+<!-- ═══════════ GITHUB STATS ═══════════ -->
 <div align="center">
 
-## 📈 Skill Level
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
-
-</div>
-
----
-
-<!-- ═══════════ 3D CONTRIBUTION + STATS ═══════════ -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=1e1e2e&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&border_radius=15&hide_border=true&bg_color=1e1e2e&title_color=00d4ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&bg_color=ffffff&title_color=00A6FB&icon_color=4facfe&text_color=333333&border_color=a8ede9&border_radius=15&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=ffffff&title_color=00A6FB&text_color=333333&border_color=a8ede9&border_radius=15"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=15&background=1e1e2e&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&background=ffffff&border=a8ede9&stroke=4facfe&ring=00A6FB&fire=ff6b6b&currStreakNum=333333&sideNums=333333&currStreakLabel=00A6FB&sideLabels=00A6FB&dates=777777&border_radius=15" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true&radius=15&bg_color=1e1e2e&color=00d4ff&line=00d4ff&point=ffffff" />
-
-<br/>
-
-<!-- 3D CONTRIBUTION -->
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=ffffff&color=00A6FB&line=4facfe&point=00c6fb&area=true&hide_border=true&radius=15" />
 
 </div>
 
@@ -138,7 +117,7 @@
 
 ## 💭 Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
 </div>
 
@@ -151,16 +130,22 @@
 
 <p>
   <a href="https://www.instagram.com/b2sjoerrss">
-    <img src="https://img.shields.io/badge/Instagram-@b2sjoerrss-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e"/>
+    <img src="https://img.shields.io/badge/Instagram-@b2sjoerrss-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:jordionsamea@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jordionsamea@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e"/>
+    <img src="https://img.shields.io/badge/Email-jordionsamea@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<!-- NEON WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:0e75b6,100:00d4ff&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+</div>
 
-**⭐️ From [Jordion Samea](https://github.com/USERNAME) with ❤️**
+---
+
+<!-- ═══════════ FOOTER WAVE ═══════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6fb,50:4facfe,100:a8ede9&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=26&fontColor=ffffff&animation=twinkling"/>
+
+**⭐️ From [Jordion Samea](https://github.com/USERNAME) with 💙**
 
 </div>
