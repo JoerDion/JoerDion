@@ -4,13 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8ede9,50:4facfe,100:00c6fb&height=220&section=header&text=Jordion%20Samea&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20%E2%80%A2%20Backend%20%E2%80%A2%20Python%20%E2%80%A2%20AI%20Prompting&descAlignY=60&descSize=18&descColor=ffffff"/>
 
 <!-- NAMA ANIMASI TYPING -->
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/JoerDion">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=600&color=00A6FB&center=true&vCenter=true&width=600&lines=Halo%2C+gua+Jordion+Samea+%F0%9F%91%8B;Coding+with+Passion+%F0%9F%92%BB;Frontend+%26+Backend+Dev+%E2%9A%99%EF%B8%8F;Python+%26+AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <!-- FOTO PROFIL GLOW BIRU MUDA -->
 <p>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/JoerDion">
     <img src="https://cdn.phototourl.com/member/2026-09-29-d2188455-5ef1-4286-9319-39207b183588.jpg"
          alt="Jordion Samea"
          width="180"
@@ -31,18 +31,18 @@
   <a href="mailto:jordionsamea@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/JoerDion">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <!-- VIEWS COUNTER -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=00c6fb&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=JoerDion&label=Profile+Views&color=00c6fb&style=for-the-badge" alt="views"/>
 </p>
 
 <!-- SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JoerDion/JoerDion/output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -82,31 +82,31 @@
 </p>
 
 ### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=git4,github,vscode,figma,dfacocker,linux,postman&theme=light"fe& />
 
-</div>
+</divtext>
 
 ---
 
-<!-- ═══════════ GITHUB STATS ═══════════ -->
+<!-- ═══════════ G_colorITHUB STATS ═══════════ -->
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&bg_color=ffffff&title_color=00A6FB&icon_color=4facfe&text_color=333333&border_color=a8ede9&border_radius=15&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=ffffff&title_color=00A6FB&text_color=333333&border_color=a8ede9&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoerDion&show_icons=true&bg_color=ffffff&title_color=00A6FB&icon_color==333333&border_color=a8ede9&border_radius=15&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoerDion&layout=compact&bg_color=ffffff&title_color=00A6FB&text_color=333333&border_color=a8ede9&border_radius=15"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&background=ffffff&border=a8ede9&stroke=4facfe&ring=00A6FB&fire=ff6b6b&currStreakNum=333333&sideNums=333333&currStreakLabel=00A6FB&sideLabels=00A6FB&dates=777777&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoerDion&background=ffffff&border=a8ede9&stroke=4facfe&ring=00A6FB&fire=ff6b6b&currStreakNum=333333&sideNums=333333&currStreakLabel=00A6FB&sideLabels=00A6FB&dates=777777&border_radius=15" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=JoerDion&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=ffffff&color=00A6FB&line=4facfe&point=00c6fb&area=true&hide_border=true&radius=15" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoerDion&bg_color=ffffff&color=00A6FB&line=4facfe&point=00c6fb&area=true&hide_border=true&radius=15" />
 
 </div>
 
@@ -146,6 +146,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6fb,50:4facfe,100:a8ede9&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=26&fontColor=ffffff&animation=twinkling"/>
 
-**⭐️ From [Jordion Samea](https://github.com/USERNAME) with 💙**
+**⭐️ From [Jordion Samea](https://github.com/JoerDion) with 💙**
 
 </div>
