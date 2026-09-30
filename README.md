@@ -82,31 +82,7 @@
 </p>
 
 ### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git4,github,vscode,figma,dfacocker,linux,postman&theme=light"fe& />
-
-</divtext>
-
----
-
-<!-- ═══════════ G_colorITHUB STATS ═══════════ -->
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoerDion&show_icons=true&bg_color=ffffff&title_color=00A6FB&icon_color==333333&border_color=a8ede9&border_radius=15&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoerDion&layout=compact&bg_color=ffffff&title_color=00A6FB&text_color=333333&border_color=a8ede9&border_radius=15"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoerDion&background=ffffff&border=a8ede9&stroke=4facfe&ring=00A6FB&fire=ff6b6b&currStreakNum=333333&sideNums=333333&currStreakLabel=00A6FB&sideLabels=00A6FB&dates=777777&border_radius=15" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoerDion&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoerDion&bg_color=ffffff&color=00A6FB&line=4facfe&point=00c6fb&area=true&hide_border=true&radius=15" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,postman&theme=light" />
 
 </div>
 
